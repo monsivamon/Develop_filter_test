@@ -1,9 +1,9 @@
 ! Title: DNS-Guard-Filter
 ! Description: Blazing fast, dependency-free DNS filter created by monsivamon
-! Version: 20260310
+! Version: 20260311
 ! Homepage: https://github.com/monsivamon/DNS-Filter-Generator
 ! License: https://github.com/monsivamon/DNS-Filter-Generator/blob/main/LICENSE
-! Last modified: 2026-03-10 19:55 JST
+! Last modified: 2026-03-11 07:41 JST
 
 @@||10.com.au^|
 @@||1000ps.de^|
@@ -16,7 +16,6 @@
 @@||25cineframes.com^|
 @@||2ix2tv.de^|
 @@||3amid-url.blogspot.com^|
-@@||3dmonitortips.com^|
 @@||65creedmoor.com^|
 @@||7plus.com.au^|
 @@||85videos.com^|
@@ -36,13 +35,11 @@
 @@||acorta-enlace.com^|
 @@||acscdn.com^|
 @@||activistpost.com^|
-@@||ad.71i.de^|
 @@||ad.a-ads.com^|
 @@||ad.admitad.com^|
 @@||ad.linksynergy.com^|
 @@||ad2.trafficgate.net^|
 @@||adinplay.com^|
-@@||adition.com^|
 @@||adpass.atresmedia.com^|
 @@||adproceed.com^|
 @@||ads.bdcraft.net^|
@@ -65,6 +62,7 @@
 @@||affiliate.rakuten.co.jp^|
 @@||ai.hubtoday.app^|
 @@||aii.sh^|
+@@||aiimgvlog.fun^|
 @@||ajax.googleapis.com^|
 @@||ajc.com^|
 @@||ak.sv^|
@@ -93,7 +91,7 @@
 @@||aniroleplay.com^|
 @@||aniview.com^|
 @@||aosmark.com^|
-@@||api-secure.solvemedia.com^|
+@@||api.adinplay.com^|
 @@||api.cxense.com^|
 @@||api.ipstack.com^|
 @@||api.production.k8s.y3o.tv^|
@@ -109,13 +107,14 @@
 @@||as.uncn.jp^|
 @@||ashemaletube.com^|
 @@||asianbookie.com^|
-@@||assets.adobedtm.com^|
 @@||assets.bilsyndication.com^|
 @@||assets.vlitag.com^|
 @@||assettoworld.b-cdn.net^|
 @@||assettoworld.com^|
+@@||aston-martin-club.com^|
 @@||aternos.org^|
 @@||atozmath.com^|
+@@||atresmedia.com^|
 @@||atresplayer.com^|
 @@||atrrd.valuecommerce.com^|
 @@||audi-sport.net^|
@@ -152,7 +151,6 @@
 @@||blogspot.com^|
 @@||bntech.io^|
 @@||boardgamesonline.net^|
-@@||boards.net^|
 @@||bolognatoday.it^|
 @@||bolsanow.com^|
 @@||bondagevalley.cc^|
@@ -175,6 +173,7 @@
 @@||c.amazon-adsystem.com^|
 @@||c.tmyzer.com^|
 @@||ca.edge.optable.co^|
+@@||cache.marieclaire.fr^|
 @@||calciomercato.com^|
 @@||camlovers.tv^|
 @@||canalnatelinhaonline.blogspot.com^|
@@ -269,7 +268,6 @@
 @@||csrevo.com^|
 @@||cuatro.com^|
 @@||custommapposter.com^|
-@@||cutcaptcha.com^|
 @@||cyberbunkers.com^|
 @@||cyclismactu.net^|
 @@||d1q4kshf6f0axi.cloudfront.net^|
@@ -281,6 +279,7 @@
 @@||damnripped.com^|
 @@||dancewave.online^|
 @@||darkw.pl^|
+@@||dash3.cashvib.com^|
 @@||data-dda7d24eb2.derstandard.at^|
 @@||databaseitalia.it^|
 @@||dcbbwymp1bhlf.cloudfront.net^|
@@ -292,6 +291,7 @@
 @@||delicious-audio.com^|
 @@||demokrasistyle.blogspot.com^|
 @@||designoptimal.com^|
+@@||desirecourse.net^|
 @@||destyy.com^|
 @@||deva.cnvids.com^|
 @@||dfbplay.tv^|
@@ -380,6 +380,7 @@
 @@||f95zone.to.it^|
 @@||faceittracker.net^|
 @@||famfonts.com^|
+@@||fark.com^|
 @@||farmeramania.de^|
 @@||farsondigitalwatercams.com^|
 @@||fastlane.rubiconproject.com^|
@@ -498,6 +499,7 @@
 @@||helenair.com^|
 @@||helmiau.com^|
 @@||hentaihaven.xxx^|
+@@||hexagame.io^|
 @@||heypikachu.com^|
 @@||hints.littlealchemy2.com^|
 @@||hiphopa.net^|
@@ -527,7 +529,6 @@
 @@||im9.eu^|
 @@||imagesrv.adition.com^|
 @@||imasdk.googleapis.com^|
-@@||imedikament.de^|
 @@||img.cartooncdn.xyz^|
 @@||imgair.net^|
 @@||impact.com^|
@@ -542,7 +543,6 @@
 @@||infinityscans.net^|
 @@||info.eco.ca^|
 @@||inforge.net^|
-@@||inkagames.com^|
 @@||insideedition.com^|
 @@||iphonetweak.fr^|
 @@||ipinfo.io^|
@@ -576,6 +576,7 @@
 @@||lablue.de^|
 @@||lapresse.ca^|
 @@||larioja.com^|
+@@||larvelfaucet.com^|
 @@||lasprovincias.es^|
 @@||launcherleaks.net^|
 @@||league-funny.com^|
@@ -609,7 +610,6 @@
 @@||luscious.net^|
 @@||lutontoday.co.uk^|
 @@||m.kuku.lu^|
-@@||m.photos.timesofindia.com^|
 @@||maalaimalar.com^|
 @@||mabzicle.com^|
 @@||madarascans.com^|
@@ -674,7 +674,6 @@
 @@||mylivesignature.com^|
 @@||myreadingmanga.disqus.com^|
 @@||myshorturls.blogspot.com^|
-@@||myuploadedpremium.de^|
 @@||myzyia.com^|
 @@||nakanohito.jp^|
 @@||napolitoday.it^|
@@ -688,7 +687,6 @@
 @@||neobux.com^|
 @@||neulionms-a.akamaihd.net^|
 @@||news.bg^|
-@@||newscon.org^|
 @@||next-episode.net^|
 @@||nfhost.me^|
 @@||nhl.com^|
@@ -783,6 +781,7 @@
 @@||promo-visits.site^|
 @@||promods.net^|
 @@||properhacks.weebly.com^|
+@@||proxy.ads.canalplus-bo.net^|
 @@||psprices.com^|
 @@||pub.doubleverify.com^|
 @@||pub.network^|
@@ -862,20 +861,16 @@
 @@||seireshd.com^|
 @@||senda.pl^|
 @@||senpa.io^|
-@@||sentry.io^|
 @@||servedby.flashtalking.com^|
 @@||servedbyadbutler.com^|
 @@||services.bilsyndication.com^|
 @@||services.brid.tv^|
-@@||services.sunmedia.tv^|
 @@||services.vlitag.com^|
 @@||servustv.com^|
-@@||seznamzpravy.cz^|
 @@||sfirmware.com^|
 @@||sh.st^|
 @@||shaboysglobal.com^|
 @@||shana.pe.kr^|
-@@||sharecast.ws^|
 @@||shinobi.jp^|
 @@||shirainime.com^|
 @@||shoop.de^|
@@ -889,6 +884,7 @@
 @@||simply-hentai.com^|
 @@||siouxcityjournal.com^|
 @@||skmedix.pl^|
+@@||sloways.eu^|
 @@||smallseo.tools^|
 @@||smart-c.jp^|
 @@||smarthomebeginner.com^|
@@ -927,6 +923,7 @@
 @@||static5.hsg.com.pl^|
 @@||stgeorgeutah.com^|
 @@||stltoday.com^|
+@@||stokerpiller.dk^|
 @@||stpd.cloud^|
 @@||streamextreme.cc^|
 @@||streamnoads.com^|
@@ -1031,6 +1028,7 @@
 @@||universal.wgplayer.com^|
 @@||unlockapk.com^|
 @@||uploadshare.net^|
+@@||uppit.com^|
 @@||uprot.net^|
 @@||uragongaming.blogspot.com^|
 @@||user.pnetlab.com^|
@@ -1072,6 +1070,7 @@
 @@||watchsuitsonline.net^|
 @@||wavse.com^|
 @@||wcfcourier.com^|
+@@||wcoanimedub.tv^|
 @@||wcoanimesub.tv^|
 @@||weather.us^|
 @@||webserver.one^|
@@ -1142,6 +1141,7 @@
 ||2adultflashgames.com^
 ||2dingdian.com^
 ||2target.net^
+||35.238.205.163^
 ||358g46.fun^
 ||3dmili.com^
 ||3movs.com^
@@ -1170,6 +1170,7 @@
 ||ad-doge.com^
 ||ad-ipd.sxp.smartclip.net^
 ||ad-shield.cc^
+||ad.71i.de^
 ||ad.doubleclick.net^
 ||ad.mail.ru^
 ||ad.masteranime.tv^
@@ -1182,8 +1183,10 @@
 ||adblockultra.com^
 ||adbox.lv^
 ||adclixx.net^
+||adconfig.ster.nl^
 ||adconfigproxy.azurewebsites.net^
 ||adf.underhentai.net^
+||adition.com^
 ||admin.animesrbija.com^
 ||adn.porndig.com^
 ||adnetasia.com^
@@ -1195,7 +1198,6 @@
 ||ads.adthrive.com^
 ||ads.desustream.com^
 ||ads.exoclick.com^
-||ads.facebook.com^
 ||ads.pinterest.com^
 ||ads.pruc.org^
 ||ads.puhutv.com^
@@ -1203,7 +1205,6 @@
 ||ads.tiktok.com^
 ||ads.tver.jp^
 ||ads.twitter.com^
-||ads.youtube.com^
 ||adsafeprotected.com^
 ||adserver.inflightinternet.com^
 ||adservice.google.com^
@@ -1259,12 +1260,10 @@
 ||antiblock.b-cdn.net^
 ||antonellapouncedcrewels.com^
 ||anyporn.com^
-||api.adinplay.com^
 ||api.aieasypic.com^
 ||api.app.dfbplay.tv^
 ||api.asiaflix.net^
 ||api.asiaon.top^
-||api.baomoi.com^
 ||api.busuu.com^
 ||api.cryptorank.io^
 ||api.discovery.com^
@@ -1276,7 +1275,6 @@
 ||api.vuukle.com^
 ||api.xfantazy.com^
 ||apis-jiocinema.voot.com^
-||apkmirror.com##.ains^
 ||arabs.alarbda.com^
 ||aragontrack.com^
 ||arc.io^
@@ -1332,6 +1330,7 @@
 ||best18porn.com^
 ||betzapdoson.com^
 ||beverfood.com^
+||bgland24.de,chiemgau24.de,innsalzach24.de,mangfall24.de,rosenheim24.de,wasserburg24.de##.wv_story_el_pinpoll^
 ||bigpixel.cn^
 ||biguz.net^
 ||bigwank.com^
@@ -1343,7 +1342,6 @@
 ||biqle.ru^
 ||bit.ly^
 ||bitchesgirls.com^
-||bitchute.com^
 ||bitcoinadvertise.net^
 ||bitcoines.com^
 ||bitcoinsports.org^
@@ -1374,6 +1372,7 @@
 ||boyfriendlive.com^
 ||boyfriendmeaningless.com^
 ||brawlify.com^
+||brazz-girls.com^
 ||briarcostshadow.com^
 ||brightadnetwork.com^
 ||brightcove.com^
@@ -1433,6 +1432,7 @@
 ||cdn.witchhut.com^
 ||cdn.work.ink^
 ||cdn.yahoomedia.net^
+||cdn.ziffstatic.com^
 ||cdn3x.com^
 ||cdnandroadu.b-cdn.net^
 ||cdnpk.net^
@@ -1491,6 +1491,7 @@
 ||corported.com^
 ||cosplayporntube.com^
 ||costly-storm.com^
+||coverapi.space^
 ||cpmecs.cc^
 ||cpmlink.net^
 ||cpx-research.com^
@@ -1511,7 +1512,6 @@
 ||curryfielddistribution.com^
 ||curvyfemales.com^
 ||cxm-api.fifa.com^
-||cyberdefensemagazine.com##[href="https:^
 ||cylindrical-suggestion.com^
 ||d10ydmitx7crxz.cloudfront.net^
 ||d13jhr4vol1304.cloudfront.net^
@@ -1549,15 +1549,15 @@
 ||delivery.twentythree.com^
 ||dembuon.vn^
 ||demonicscans.org^
-||designtagebuch.de##.zwischen-posts-wrapper^
+||descargaloaca.com^
 ||desirefx.com^
 ||desktopnexus.com^
 ||dev.to^
 ||deviants.com^
 ||devuploads.com^
-||dfuybl-bclxb.love^
 ||digiseller.ru^
 ||dirp.me^
+||dirtyindianporn.info^
 ||disproveknob.com^
 ||dl-protect.link^
 ||dl4d3y1ajyv3q.cloudfront.net^
@@ -1629,7 +1629,6 @@
 ||eriegentsfse.info^
 ||eroasmr.com^
 ||eroprofile.com^
-||erotic-beauties.com##.sidebar^
 ||eroticity.net^
 ||ersties.com^
 ||est-host.com^
@@ -1666,11 +1665,13 @@
 ||file-upload.com^
 ||filemoon.in^
 ||filemoon.nl^
+||files-cdn.jpopsingles.eu^
 ||files.brocardi.it^
 ||files.im^
 ||files.upscore.com^
 ||filesenzu.com^
 ||filestream.cloud^
+||filext.com###c1c^
 ||filmex.to^
 ||filmovi.ws^
 ||filmvitrini.net^
@@ -1683,6 +1684,7 @@
 ||flixbaba.net^
 ||fls-na.amazon.com^
 ||flsaudio.com^
+||flyshare.cfd^
 ||fmovies.co^
 ||focus.de^
 ||fokstatic.nl^
@@ -1704,6 +1706,7 @@
 ||freex2line.online^
 ||freyr.futurecdn.net^
 ||fuckandcdn.com^
+||fuckflix.click^
 ||fuckingfast.co^
 ||fullhd4k.com^
 ||fullhdxxx.com^
@@ -1731,7 +1734,6 @@
 ||german-porno-deutsch.info^
 ||get-link.xyz^
 ||getsexgames.com^
-||ghastlyejection.com^
 ||ghbrisk.com^
 ||gifhq.com^
 ||giga.de^
@@ -1758,19 +1760,20 @@
 ||gospeljingle.com^
 ||gotgayporn.com^
 ||gotprofits.com^
-||grafixfather.com##ins.adsbygoogle^
+||grab.tc^
 ||grammarist.com^
 ||grammarly.com^
 ||grandfuckauto.xxx^
 ||greedseed.world^
 ||grindsteeplesprung.com^
+||grow.gab.com^
 ||grumft.com^
 ||guidedhacking.com^
 ||gupload.xyz^
 ||gviet.vn^
 ||gxh1yqz2v.xyz^
 ||gyazo.com^
-||h5xzcrigf541b0fzxj.fun^
+||haoweichi.com##.ad2^
 ||harmful-comparison.com^
 ||havenclick.com^
 ||hawaktv.com^
@@ -1789,7 +1792,6 @@
 ||heavy-r.com^
 ||hentai2read.com^
 ||hentai2w.com^
-||hentaicdn.com^
 ||hentaicomics.pro^
 ||hentaigo.com^
 ||hentaihaven.icu^
@@ -1827,7 +1829,6 @@
 ||i1.wp.com^
 ||iamcdn.net^
 ||ibb.co^
-||ibradome.com^
 ||ichlnk.com^
 ||iclickcdn.com^
 ||ico3c.com^
@@ -1847,7 +1848,6 @@
 ||imdb.com^
 ||img-load.com^
 ||img.alandal.com^
-||img.kurzy.cz^
 ||img.mykadri.click^
 ||img.stomp.com.sg^
 ||imgdawgknuttz.com^
@@ -1899,7 +1899,6 @@
 ||jaya9.best^
 ||jayabaji3.com^
 ||jayan-uvl.com^
-||jaysndees.com###block1^
 ||jeengweb.com^
 ||jizz.us^
 ||jizzberry.com^
@@ -1938,21 +1937,19 @@
 ||l2db.info^
 ||largeboyfriend.com^
 ||learn-cpp.org^
-||lebahmovie.com^
 ||lesbian8.com^
 ||letmejerk.com^
 ||lexozfldkklgvc.com^
 ||lib.twnmm.com^
-||lidovky.cz###main^
 ||lifeselector.com^
 ||ligheechoagool.com^
 ||link.onlinekosh.com^
 ||link.paid4link.com^
+||link.theplatform.com^
 ||link.tl^
 ||linksprf.com^
 ||linkupload.pro^
 ||linkvertise.net^
-||litaudrootsa.net^
 ||littlebigsnake.com^
 ||livesport24.net^
 ||lk21static.buzz^
@@ -1982,11 +1979,11 @@
 ||mangadex.org^
 ||mangahere.onl^
 ||mangaspdf.xyz^
+||manporn.xxx^
 ||mapple.uk^
 ||mappletv.uk^
 ||marketbeat.com^
 ||masteranime.tv^
-||mathcrave.com^
 ||mathwarehouse.com^
 ||matystudios.github.io^
 ||max-adserv.com^
@@ -2031,7 +2028,6 @@
 ||mp4hentai.com^
 ||mrfoe.com^
 ||msn.com^
-||msok-bayqa.icu^
 ||mstm.motorsport.com^
 ||multinews.me^
 ||multiup.io^
@@ -2053,9 +2049,9 @@
 ||nalroustaucmoux.net^
 ||nanai-clw.com^
 ||natomanga.com^
+||naturalbd.com^
 ||naughtymachinima.com^
 ||nautiljon.com^
-||ndtv.com##.trc-content-sponsored^
 ||needgayporn.com^
 ||nexusbytes.com^
 ||nibaz.com^
@@ -2065,6 +2061,7 @@
 ||nothingtoxic.com^
 ||notifyvideo.info^
 ||nsfwr34.com^
+||nudespree.com^
 ||nudismteens.com^
 ||nxbrew.com^
 ||nxprime.in^
@@ -2109,6 +2106,7 @@
 ||pakistaniporn2.com^
 ||palpatecricketmajesty.com^
 ||pandanetwork.club^
+||panel.freemcserver.net^
 ||pantomimemailman.com^
 ||pastemytxt.com^
 ||payskip.org^
@@ -2124,6 +2122,7 @@
 ||phim1080.in^
 ||phineypet.com^
 ||phoobsoo.net^
+||photon.scrolller.com^
 ||photopea.com^
 ||physicsandmathstutor.com^
 ||pianetamountainbike.it^
@@ -2230,10 +2229,8 @@
 ||raw.githack.com^
 ||raw.githubusercontent.com^
 ||rawcdn.githack.com^
-||rawgit.com^
 ||readmng.com^
 ||realgfporn.com^
-||realsrv.com^
 ||receivefreesms.co.uk^
 ||recessionspeaksanybody.com^
 ||red12flyw2.site^
@@ -2284,7 +2281,6 @@
 ||sab.fast.ge^
 ||saddlegirls.com^
 ||sainsburys.co.uk^
-||sandhowl.com^
 ||sascdn.com^
 ||schneesommer.de^
 ||scopateitaliane.it^
@@ -2301,9 +2297,9 @@
 ||semawur.com^
 ||sered.net^
 ||sersh.com^
+||servedby.adbility-media.com^
 ||serving.adserver.live^
 ||sex-empire.org^
-||sexasia.net^
 ||sexei.net^
 ||sexfreehd.xxx^
 ||sexinsex.net^
@@ -2317,7 +2313,9 @@
 ||sexy-egirls.com^
 ||sexyaporno.com^
 ||seznam.cz^
+||seznamzpravy.cz^
 ||share.notizie.it^
+||sharecast.ws^
 ||shared.mediahuis.be^
 ||shareease.link^
 ||shemalestube.com^
@@ -2355,6 +2353,7 @@
 ||speedrun.com^
 ||spermyporn.com^
 ||spiddefrexpron.com^
+||spiegel.de#@#a[data-nvp^
 ||sponsoredaccess.viasat.com^
 ||sprzedaz2.oczarjk.pl^
 ||spycock.com^
@@ -2380,7 +2379,6 @@
 ||static.tvtropes.org^
 ||static.twincdn.com^
 ||static.vocento.com^
-||static.xxxbunker.com^
 ||static.zhihu.com^
 ||stbturbo.xyz^
 ||stiflersmoms.com^
@@ -2407,7 +2405,6 @@
 ||svonm.com^
 ||swarmmanga.com^
 ||syndication.exoclick.com^
-||syndication.twitter.com^
 ||t3n.de^
 ||tabooporn.tv^
 ||tagan.adlightning.com^
@@ -2514,7 +2511,6 @@
 ||up-load.io^
 ||uploadhaven.com^
 ||uploadraja.com^
-||uppit.com^
 ||uproxy2.biz^
 ||uptostream.com^
 ||usheebainaut.com^
@@ -2529,12 +2525,14 @@
 ||vehavings.biz^
 ||ver.gratis^
 ||vexfile.com^
+||vgwort.de^
 ||vidads.gr^
 ||vidapi.expepp.de^
 ||video-ads-module.ad-tech.nbcuni.com^
 ||video.golem.de^
 ||videolyrics.in^
 ||videos.porndig.com^
+||vidhidefast.com^
 ||vidlink.pro^
 ||vidsrc.cc^
 ||vidsrc.net^
@@ -2563,6 +2561,7 @@
 ||watchfreexxx.net^
 ||watchmygf.me^
 ||watchporn.to^
+||watchpornx.com###overlays^
 ||watchx.top^
 ||watson.de^
 ||waybig.com^
@@ -2573,6 +2572,7 @@
 ||web2.0rechner.de^
 ||weblion777.github.io^
 ||webmonetiser.com^
+||webpartners.co^
 ||welect.de^
 ||welt.de^
 ||wetpussy.sexy^
@@ -2582,9 +2582,11 @@
 ||wiki.yjsnpi.nu^
 ||willalland.info^
 ||windorange.info^
+||windowcleaningforums.co.uk##a[href="https:^
 ||winfr-wtc.com^
 ||wochenblitz.com^
 ||wontent.powvideo.net^
+||woofbeginner.com^
 ||wooflix.tv^
 ||wootly.ch^
 ||woowebtools.com^
@@ -2594,6 +2596,7 @@
 ||wp.com^
 ||wpcdn.pl^
 ||wpfc.ml^
+||wsj.com##div[id="wrapper-AD_"]^
 ||www.duden.de^
 ||www.iprima.cz^
 ||www.sfr.fr^
@@ -2626,7 +2629,6 @@
 ||xxvideoss.org^
 ||xxx18.uno^
 ||xxxadd.com^
-||xxxbfvideo.net^
 ||xxxbule.com^
 ||xxxdessert.com^
 ||xxxdl.net^
@@ -2636,6 +2638,7 @@
 ||xxxvideohd.net^
 ||xxxwebdlxxx.org^
 ||yabancidizim.com^
+||yahoo.com##.ys-mobileFeaturedAd^
 ||yasir252.com^
 ||yespornclips.com^
 ||ymovies.vip^
